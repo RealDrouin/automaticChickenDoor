@@ -18,3 +18,6 @@
 
 # Motor Calibration
 ![](Images/ChickenCoop%20Admin(4).png)
+
+# Schematic
+![](Images/Schematic.png)
