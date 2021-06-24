@@ -28,8 +28,8 @@
 # IFTTT
 <img src="Images/IFTTT.png" Width="300" > 
 
-- Video #1
-  video: https://www.youtube.com/watch?v=eb1a-WeicLw
+- Video #1: https://www.youtube.com/watch?v=eb1a-WeicLw
+- Video #2: https://www.youtube.com/watch?v=sWoq_XnM8pI&t=5s
 
 
 
