@@ -28,7 +28,9 @@
 # IFTTT
 <img src="Images/IFTTT.png" Width="300" > 
 
-video: https://youtube.com/embed/w3jLJU7DT5E
+- title: What is GitHub?
+  description: After watching this video, close the first issue in your repository.
+  video: https://youtube.com/embed/w3jLJU7DT5E
 
 
 
