@@ -23,9 +23,7 @@
 ![](Images/Schematic.png)
 
 # Blynk
-
-<img src="Images/Blynk.jpg" Width="200" >
-
+<img src="Images/Blynk.jpg" Width="300" >
 
 # IFTTT
-![](Images/IFTTT.png)
+<img src="Images/IFTTT.png" Width="300" >
