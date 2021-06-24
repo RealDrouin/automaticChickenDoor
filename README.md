@@ -26,7 +26,9 @@
 <img src="Images/Blynk.jpg" Width="300" >
 
 # IFTTT
-<img src="Images/IFTTT.png" Width="300" > <iframe width="420" height="315"
+<img src="Images/IFTTT.png" Width="300" > 
+
+<iframe width="420" height="315"
 src="https://youtu.be/eb1a-WeicLw">
 </iframe> 
 
