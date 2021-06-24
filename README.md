@@ -23,6 +23,8 @@
 ![](Images/Schematic.png)
 
 # Blynk
+
+<img src="Images/Blynk.jpg" Width="100" >
 ![](Images/Blynk.jpg)
 
 # IFTTT
