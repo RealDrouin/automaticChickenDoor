@@ -1,2 +1,3 @@
 # automaticChickenDoor
  
+![](Images/automaticDoor.gif)
