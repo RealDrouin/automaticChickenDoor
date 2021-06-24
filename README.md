@@ -28,8 +28,7 @@
 # IFTTT
 <img src="Images/IFTTT.png" Width="300" > 
 
-<iframe width="420" height="315"
-src="https://youtu.be/eb1a-WeicLw">
-</iframe> 
+video: https://youtube.com/embed/w3jLJU7DT5E
+
 
 
