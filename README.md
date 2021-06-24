@@ -24,8 +24,8 @@
 
 # Blynk
 
-<img src="Images/Blynk.jpg" Width="100" >
-![](Images/Blynk.jpg)
+<img src="Images/Blynk.jpg" Width="200" >
+
 
 # IFTTT
 ![](Images/IFTTT.png)
