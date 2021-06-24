@@ -23,7 +23,7 @@
 ![](Images/Schematic.png)
 
 # Blynk
-![](Images/Blynk.png)
+![](Images/Blynk.jpg)
 
 # IFTTT
 ![](Images/IFTTT.png)
