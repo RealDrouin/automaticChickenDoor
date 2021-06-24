@@ -10,4 +10,10 @@
 # Admin Web Page
 ![](Images/ChickenCoop%20Admin.png)
 
+![](Images/ChickenCoop%20Admin(1).png)
 
+![](Images/ChickenCoop%20Admin(2).png)
+
+![](Images/ChickenCoop%20Admin(3).png)
+
+![](Images/ChickenCoop%20Admin(4).png)
