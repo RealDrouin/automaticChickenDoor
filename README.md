@@ -8,6 +8,6 @@
 ![](Images/Smart%20Chicken%20Door.png)
 
 # Admin Web Page
-![](Images/ChickenCoopAdmin.png)
+![](Images/ChickenCoop%20Admin.png)
 
 
