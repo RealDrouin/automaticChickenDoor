@@ -1,4 +1,4 @@
-# automaticChickenDoor
+# Smart Automatic Chicken Door
  
 ![](Images/automaticDoor.gif)
 
@@ -6,5 +6,8 @@
 
 # Main Web Page
 ![](Images/Smart%20Chicken%20Door.png)
+
+# Admin Web Page
+![](Images/ChickenCoopAdmin.png)
 
 
