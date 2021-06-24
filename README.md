@@ -21,3 +21,9 @@
 
 # Schematic
 ![](Images/Schematic.png)
+
+# Blynk
+![](Images/Blynk.png)
+
+# IFTTT
+![](Images/IFTTT.png)
