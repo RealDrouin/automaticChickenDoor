@@ -28,7 +28,7 @@
 # IFTTT
 <img src="Images/IFTTT.png" Width="300" > 
 
-# Youtube Video
+# YouTube Video
 
 [![Video #1](https://img.youtube.com/vi/eb1a-WeicLw/0.jpg)](https://www.youtube.com/watch?v=eb1a-WeicLw)
 
